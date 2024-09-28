@@ -32,6 +32,9 @@
 	.moblie-category {
 		display: block;
 	}
+	.header__moblie-bar {
+		display: block;
+	}
 }
 
 /* Tablet */
@@ -46,6 +49,10 @@
 	.header__cart {
 		width: 80px;
 		text-align: right;
+	}
+	.header__moblie-bar {
+		padding: 0 12px 0 0px;
+		margin-right: 24px;
 	}
 }
 
